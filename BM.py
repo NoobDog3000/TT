@@ -870,7 +870,7 @@ if __name__ == '__main__':
 {r} +++++++++++++++++++++++++
 
 {y}Info:
-    {r}[+] {b}Coder: {g}@NoobDog3000
+    {r}[+] {y}Coder: {g}@NoobDog3000
     
 {y}system:
     {g}[+] {y}Platform: {w}{System}
