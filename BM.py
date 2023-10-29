@@ -872,11 +872,6 @@ if __name__ == '__main__':
 {y}Info:
     {r}[+] {y}Coder: {g}@NoobDog3000
     
-{y}system:
-    {g}[+] {y}Platform: {w}{System}
-    {g}[+] {y}Node: {w}{Node}
-    {g}[+] {y}Release: {w}{Release}
-    
 ''')
     while True:
         phone = is_phone(input(f'{g}[?] {y}Enter Phone Number {g}(+98) {r}- {w}'))
